@@ -27,7 +27,7 @@ const mycard =
     <div class="card">
     <img src=${postdata.Img} alt="">
 <h2 class="card_heading">${postdata.h2}<span class="colorful">${postdata.heading2}</span></h2>
-    <p>${postdata.p}</p>
+    <p class="paragraph">${postdata.p}</p>
 
     </div>
     `
